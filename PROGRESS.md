@@ -61,7 +61,7 @@ Tick a box when a task is done and commit. Latest update at the top of the log.
 - [ ] Dashboard and traceability report
 - [ ] Seeded-bug experiments and baseline comparison
 - [ ] Final report and demonstration
-- [ ] Infineon PSoC adapter (if time allows)
+- [ ] Infineon PSoC board adapter (FYP 2, ask supervisor for the board)
 
 ---
 
