@@ -34,9 +34,10 @@ Tick a box when a task is done and commit. Latest update at the top of the log.
 ## Phase 3 · System and rig design → Chapter 3
 - [x] Architecture and flow diagrams
 - [ ] Rig wiring diagram (Pi 5 ↔ board pins, voltage levels checked)
-- [ ] Requirement and test case formats (YAML)
-- [ ] Agent design: inputs, outputs and prompts for each agent
-- [ ] Evaluation plan: seeded faults, metrics, baselines
+- [x] Requirement and test case formats (YAML)
+- [x] Agent design: inputs, outputs and prompts for each agent
+- [x] Evaluation plan: seeded faults, metrics, baselines
+- [x] Chapter 3 drafted
 - [ ] Chapter 3 draft sent to supervisor
 
 ## Phase 4 · First end-to-end test (proof of concept)
@@ -65,5 +66,6 @@ Tick a box when a task is done and commit. Latest update at the top of the log.
 ---
 
 ## Log
+- **24/11/2026** — Chapter 3 first draft written (framework, requirements, design, evaluation plan, schedule).
 - **24/11/2026** — Literature collected and verified; Chapter 2 first draft written.
 - **24/11/2026** — Repository created. Design documents uploaded. Implementation not started.
