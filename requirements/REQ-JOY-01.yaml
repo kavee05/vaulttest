@@ -1,0 +1,12 @@
+id: REQ-JOY-01
+title: Joystick LEFT shows on the LCD
+description: When the joystick is pushed LEFT, the LCD shows the text "LEFT" within 200 ms.
+inputs:
+  - signal: joystick_left
+    action: press
+expected:
+  - observe: lcd_text
+    equals: "LEFT"
+    within_ms: 200
+  - observe: uart_log
+    contains: "JOY:LEFT"

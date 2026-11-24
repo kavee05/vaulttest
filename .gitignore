@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+models/
+*.gguf
+chroma/
+# Keil build output
+firmware/**/Objects/
+firmware/**/Listings/
+*.uvguix.*
+*.bak
+eval/runs/
