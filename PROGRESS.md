@@ -12,13 +12,14 @@ Tick a box when a task is done and commit. Latest update at the top of the log.
 - [x] Board and debugger received (MCBSTM32F400 + ULINK2)
 
 ## Phase 1 · Literature review → Chapter 2
-- [ ] Collect 25 to 40 papers (2021 to 2026) into a reference manager
-- [ ] Firmware and embedded testing, hardware-in-the-loop
-- [ ] Requirements-based testing, black box / white box / grey box
-- [ ] LLMs for test generation (single agent vs multi-agent)
-- [ ] RAG for code, local LLMs, sovereign AI
-- [ ] LLM-based failure diagnosis / fault localisation
-- [ ] Comparison table of existing tools and the research gap
+- [x] Collect 25 to 40 papers (2021 to 2026) into a reference manager
+- [x] Firmware and embedded testing, hardware-in-the-loop
+- [x] Requirements-based testing, black box / white box / grey box
+- [x] LLMs for test generation (single agent vs multi-agent)
+- [x] RAG for code, local LLMs, sovereign AI
+- [x] LLM-based failure diagnosis / fault localisation
+- [x] Comparison table of existing tools and the research gap
+- [x] Chapter 2 drafted (29 sources, matrix in `docs/literature/matrix.md`)
 - [ ] Chapter 2 draft sent to supervisor
 
 ## Phase 2 · Toolchain and board bring-up
@@ -64,4 +65,5 @@ Tick a box when a task is done and commit. Latest update at the top of the log.
 ---
 
 ## Log
+- **24/11/2026** — Literature collected and verified; Chapter 2 first draft written.
 - **24/11/2026** — Repository created. Design documents uploaded. Implementation not started.

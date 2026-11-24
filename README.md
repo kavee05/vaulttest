@@ -50,7 +50,7 @@ See **[PROGRESS.md](PROGRESS.md)** for the live checklist and **[Milestones](../
 | Phase | When | Status |
 |---|---|---|
 | 0. Title, proposal, PRD, diagrams | FYP 1 | ✅ Done |
-| 1. Literature review (Chapter 2) | FYP 1 | ⏳ Not started |
+| 1. Literature review (Chapter 2) | FYP 1 | 🟡 Draft done, awaiting supervisor |
 | 2. Toolchain and board bring-up | FYP 1 | ⏳ Not started |
 | 3. System and rig design (Chapter 3) | FYP 1 | 🟡 Diagrams done |
 | 4. First end-to-end test (joystick) | FYP 1 | ⏳ Not started |
